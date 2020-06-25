@@ -15,7 +15,7 @@ body {
   
   body * {
     background: whitesmoke;
-    border: 1px solid lightslategrey;
+    border: 1px solid white;
     border-radius: 3px;
   }
   
@@ -23,7 +23,7 @@ body {
     grid-row: 1;
     grid-column: 1 / span 3;
     background: whitesmoke;
-    color: blue;
+    color: black;
     text-align: center;
     line-height: 30px;
   }
